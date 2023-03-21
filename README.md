@@ -1,4 +1,4 @@
-### Hi there 👋
+### Eae Galera 👋
 
 <!--
 **Ch1c40/Ch1c40** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
