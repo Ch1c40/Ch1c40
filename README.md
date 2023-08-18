@@ -1,5 +1,8 @@
 ### Hey 👋, I'm Arley
 
+- 🌱 I’m currently learning c++
+- 📫 How to reach me: contatofcarley@gmail.com
+- 😄 You can talk me Chico.
 <!--
 **Ch1c40/Ch1c40** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
