@@ -1,6 +1,6 @@
 ### Hey 👋, I'm Arley
 
-- 🌱 I’m currently learning c++
+- 🌱 I’m currently learning SwiftUI
 - 📫 How to reach me: contatofcarley@gmail.com
 - 😄 You can talk me Chico.
 <!--
